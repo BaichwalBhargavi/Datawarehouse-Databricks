@@ -1,5 +1,7 @@
 Data Modeling & ETL Notes
 
+https://dbc-dda204ac-a01e.cloud.databricks.com/browse/folders/4254714813108275?o=3543668295620810
+
 This repository documents my learnings and practical work on data modeling, ETL pipelines, and data warehousing concepts.
 I’ve implemented Bronze, Silver, and Gold layers, designed fact and dimension tables, and studied different schema models and Slowly Changing Dimensions (SCDs).
 
