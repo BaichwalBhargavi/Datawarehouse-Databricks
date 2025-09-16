@@ -83,5 +83,3 @@ Type 3 → Maintains limited history (e.g., current & previous value).
 
 
 
-date_key	date	day	month	year	weekday	holiday_flag
-20240101	2024-01-01	1	
